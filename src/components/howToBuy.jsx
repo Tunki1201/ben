@@ -53,9 +53,9 @@ const HowToBuyPage = () => {
                                 <img src="./images/ben10/solana.png" className="w-full min-w-[138px]" alt="" />
                             </div>
                             <div className="flex flex-col justify-center">
-                                <h3 className="text-white text-[23px] evermore mb-[25px]" style={{ fontFamily: 'Smack' }}>Secure Some ETH</h3>
+                                <h3 className="text-white text-[23px] evermore mb-[25px]" style={{ fontFamily: 'Smack' }}>Secure Some Solana</h3>
                                 <p className="text-white text-[19px]" style={{ fontFamily: 'Mansalva' }}>
-                                    You'll need ETH in your wallet to make the switch to #Ben10. If you don't have any, you can procure
+                                    You'll need Solana in your wallet to make the switch to #Ben10. If you don't have any, you can procure
                                     it directly on MetaMask, transfer from another wallet, or acquire it on a different exchange and send it to your wallet.
                                 </p>
                             </div>
@@ -86,9 +86,9 @@ const HowToBuyPage = () => {
                                 <img src="./images/ben10/s-b.png" className="w-full min-w-[200px] h-full" alt="" />
                             </div>
                             <div className="flex flex-col justify-center ml-[-10px]">
-                                <h3 className="text-white text-[23px] evermore mb-[25px]" style={{ fontFamily: 'Smack' }}>Trade ETH for $Ben10</h3>
+                                <h3 className="text-white text-[23px] evermore mb-[25px]" style={{ fontFamily: 'Smack' }}>Trade Solana for $Ben10</h3>
                                 <p className="text-white text-[19px]" style={{ fontFamily: 'Mansalva' }}>
-                                    Exchange your ETH for $Ben10. We've slashed taxes to ZERO, so no need to stress about specific slippages.
+                                    Exchange your Solana for $Ben10. We've slashed taxes to ZERO, so no need to stress about specific slippages.
                                     Although, during market rollercoasters, a smidgen of slippage might be your co-pilot.
                                 </p>
                             </div>
