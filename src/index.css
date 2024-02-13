@@ -161,3 +161,18 @@ code {
 .antd_button :hover{
   background-color: #64cc4f;
 }
+
+
+
+/* waves */
+.ocean {
+  height: 100px; /* change the height of the waves here */
+  width: 100%;
+  position: absolute;
+  bottom: 138px;
+  /* padding-bottom:-10px; */
+  left: 0;
+  right: 0;
+  overflow-x: hidden;
+  transform: rotateY(180deg);
+}
